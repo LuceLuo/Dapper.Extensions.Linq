@@ -1,3 +1,5 @@
+# 添加了NetCore支持（目前只提供SqlServer、MySql支持）（还在调试中，仅仅是可以编译通过而已！！！！）
+
 # Introduction
 
 Dapper, Dapper Extensions and Linq. Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries. The fluid configuration makes setup simplistic and quick.
